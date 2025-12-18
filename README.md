@@ -1,44 +1,37 @@
-# 👩‍💻 Andresa Rosado
+#  Andresa Rosado  
 
-🎯 Em transição para a área de Tecnologia | Estudante de Engenharia de Software com foco em Front-end
+🎯 **Desenvolvedora Back-end Júnior em formação | Java • Python • APIs • SQL**
 
-Oi! Sou a **Andresa Rosado**, em transição de carreira após 9 anos trabalhando com **vendas, atendimento ao cliente e liderança de equipes**. Hoje, estou focada em **Desenvolvimento Front-end**, aplicando minha experiência com pessoas na criação de interfaces digitais mais humanas, acessíveis e eficientes.
+Olá! Sou a **Andresa Rosado**, em transição de carreira para a área de **Tecnologia**, após **9 anos de experiência em vendas, atendimento ao cliente e liderança de equipes**.  
+Atualmente, estou focada em **Desenvolvimento Back-end**, com interesse em **lógica de programação, APIs, banco de dados e boas práticas de código**.
 
-Atualmente estudo **HTML5, CSS3, JavaScript (ES6), Git**, com interesse crescente em **React, UI/UX, acessibilidade, responsividade** e **boas práticas de código limpo**.
-
----
-
-## 💡 Sobre mim
-
-- 🧠 9 anos de experiência com foco em pessoas e experiência do cliente  
-- 🧩 Habilidades em liderança, resolução de problemas e comunicação clara  
-- 🎯 Em busca de oportunidades como **Estagiária ou Desenvolvedora Júnior (Front-end)**  
-- 🌱 Aprendizado contínuo com foco em qualidade de código e usabilidade
+Minha vivência com pessoas fortaleceu habilidades essenciais para a área tech, como **comunicação clara, visão de negócio, responsabilidade e resolução de problemas**, que hoje aplico no desenvolvimento de soluções eficientes e bem estruturadas.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias e ferramentas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🌱 Aprendizado atual
 
-`HTML5` • `CSS3` • `JavaScript (ES6)` • `Git & GitHub` • `React (em breve)` • `UI/UX` • `Acessibilidade` • `Código limpo` • `Python` • `Java`
+`Java` • `Python` • `Lógica de Programação` • `POO` • `APIs REST` • `Git & GitHub` • `SQL` • `Boas práticas de código` • `Estrutura de dados (básico)`
 
 ---
 
 ## 📌 Em breve...
 
-✨ Em construção: projetos pessoais de front-end que unem técnica com empatia e foco no usuário.  
-Fique de olho!
+✨ Repositórios com **projetos back-end**, focados em:
+- APIs REST
+- Integração com banco de dados
+- Organização de código e lógica
+- Simulações de problemas reais de negócio
 
 ---
 
@@ -48,19 +41,5 @@ Fique de olho!
 
 ---
 
-💬 *Aberta a conexões, trocas de conhecimento e oportunidades na área de tecnologia!*
+💬 *Aberta a conexões, aprendizado e oportunidades na área de Desenvolvimento Back-end.*
 
-<!--
-**ANDRESA-ROSADO/Andresa-Rosado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
